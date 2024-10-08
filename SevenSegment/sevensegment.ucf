@@ -1,0 +1,20 @@
+NET "clk" LOC = "P56"; 
+NET "rst" LOC = "P22";
+NET "clk" CLOCK_DEDICATED_ROUTE = true;
+NET "rst" CLOCK_DEDICATED_ROUTE = FALSE;
+
+
+NET "display[0]" LOC = "P48"; 
+NET "display[1]" LOC = "P45"; 
+NET "display[2]" LOC = "P51"; 
+NET "display[3]" LOC = "P47"; 
+NET "display[4]" LOC = "P57"; 
+NET "display[5]" LOC = "P50"; 
+NET "display[6]" LOC = "P59"; 
+NET "display[7]" LOC = "P55"; 
+
+
+NET "digit[0]" LOC = "P46"; 
+NET "digit[1]" LOC = "P43"; 
+NET "digit[2]" LOC = "P44"; 
+NET "digit[3]" LOC = "P40";

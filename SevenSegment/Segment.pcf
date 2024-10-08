@@ -1,0 +1,25 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Fri Mar 08 10:46:03 2019
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "display<6>" LOCATE = SITE "P59" LEVEL 1;
+COMP "display<7>" LOCATE = SITE "P55" LEVEL 1;
+COMP "clk" LOCATE = SITE "P56" LEVEL 1;
+PIN clk_pin<0> = BEL "clk" PINNAME PAD;
+PIN "clk_pin<0>" CLOCK_DEDICATED_ROUTE;
+COMP "digit<0>" LOCATE = SITE "P46" LEVEL 1;
+COMP "digit<1>" LOCATE = SITE "P43" LEVEL 1;
+COMP "digit<2>" LOCATE = SITE "P44" LEVEL 1;
+COMP "digit<3>" LOCATE = SITE "P40" LEVEL 1;
+COMP "display<0>" LOCATE = SITE "P48" LEVEL 1;
+COMP "display<1>" LOCATE = SITE "P45" LEVEL 1;
+COMP "display<2>" LOCATE = SITE "P51" LEVEL 1;
+COMP "rst" LOCATE = SITE "P22" LEVEL 1;
+PIN rst_pin<0> = BEL "rst" PINNAME PAD;
+PIN "rst_pin<0>" CLOCK_DEDICATED_ROUTE = FALSE;
+COMP "display<3>" LOCATE = SITE "P47" LEVEL 1;
+COMP "display<4>" LOCATE = SITE "P57" LEVEL 1;
+COMP "display<5>" LOCATE = SITE "P50" LEVEL 1;
+SCHEMATIC END;
+

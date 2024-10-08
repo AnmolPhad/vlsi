@@ -1,0 +1,12 @@
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/SevenSegment/Segment.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/SevenSegment/Segment.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc sevensegment.ucf -p xc6slx9-tqg144-2 "Segment.ngc" Segment.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o Segment_map.ncd Segment.ngd Segment.pcf 
+par -w -intstyle ise -ol high -mt off Segment_map.ncd Segment.ncd Segment.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Segment.twx Segment.ncd -o Segment.twr Segment.pcf -ucf sevensegment.ucf 
+bitgen -intstyle ise -f Segment.ut Segment.ncd 
+xst -intstyle ise -ifn "D:/1. UPDATED VERSION/1. Development board/NEW SPARTANCE-6 VHDL CODE/NEW SPARTANCE-6 VHDL CODE/SevenSegment/Segment.xst" -ofn "D:/1. UPDATED VERSION/1. Development board/NEW SPARTANCE-6 VHDL CODE/NEW SPARTANCE-6 VHDL CODE/SevenSegment/Segment.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc sevensegment.ucf -p xc6slx9-tqg144-2 "Segment.ngc" Segment.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Segment_map.ncd Segment.ngd Segment.pcf 
+par -w -intstyle ise -ol high -mt off Segment_map.ncd Segment.ncd Segment.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml Segment.twx Segment.ncd -o Segment.twr Segment.pcf -ucf sevensegment.ucf 
+bitgen -intstyle ise -f Segment.ut Segment.ncd 
