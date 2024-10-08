@@ -1,0 +1,8 @@
+Release 12.2 Drc M.63c (nt)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+
+Thu Apr 26 11:11:02 2018
+
+drc -z dac_main.ncd dac_main.pcf
+
+DRC detected 0 errors and 0 warnings.

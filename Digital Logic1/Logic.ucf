@@ -1,0 +1,36 @@
+NET "a" LOC = "P6";
+NET "b" LOC = "P58";
+NET "c" LOC = "P64";
+NET "d" LOC = "p75";
+NET "e" LOC = "P1";
+NET "f" LOC = "P141";
+NET "g" LOC = "P137";
+NET "h" LOC = "P131";
+NET "i" LOC = "P8";
+NET "j" LOC = "P61";
+NET "k" LOC = "P67";
+NET "l" LOC = "P116";
+NET "m" LOC = "P143";
+NET "n" LOC = "P139";
+NET "o" LOC = "P133";
+NET "p" LOC = "P126";
+
+NET "out1" LOC = "P5";
+NET "out2" LOC = "P10";
+NET "out3" LOC = "P95";
+NET "out4" LOC = "P115";
+NET "out5" LOC = "P144";
+NET "out6" LOC = "P140";
+NET "out7" LOC = "P127";
+NET "out8" LOC = "P111";
+NET "out9" LOC = "P7";
+NET "out10" LOC = "P62";
+NET "out11" LOC = "P16";
+
+
+NET "out12" LOC = "P2";
+NET "out13" LOC = "P142";
+NET "out14" LOC = "P138";
+NET "out15" LOC = "P134";
+NET "out16" LOC = "P124";
+

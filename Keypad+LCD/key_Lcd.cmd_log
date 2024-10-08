@@ -1,0 +1,435 @@
+xst -intstyle ise -ifn "D:/PRAJVAL/Temp/VHDL/Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/Temp/VHDL/Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "D:/PRAJVAL/Temp/VHDL/Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/Temp/VHDL/Key_Lcd/key_Lcd.syr" 
+xst -intstyle ise -ifn "D:/PRAJVAL/Temp/VHDL/Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/Temp/VHDL/Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "D:/PRAJVAL/Temp/VHDL/Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/Temp/VHDL/Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "D:/PRAJVAL/Temp/VHDL/Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/Temp/VHDL/Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "D:/PRAJVAL/Temp/VHDL/Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/Temp/VHDL/Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.xst" -ofn "D:/PRAJVAL/IMP/VHDL/FPGA/FPGA(LGSC15-240_v1.0)-UNI(LGSB15-236_V1.0)/7.Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 key_Lcd.ngc key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "F:/vinayak/FPGA dev. board LGSF15-252_v1.0/9.Key_Lcd/key_Lcd.xst" -ofn "F:/vinayak/FPGA dev. board LGSF15-252_v1.0/9.Key_Lcd/key_Lcd.syr" 
+xst -intstyle ise -ifn "F:/vinayak/FPGA dev. board LGSF15-252_v1.0/9.Key_Lcd/key_Lcd.xst" -ofn "F:/vinayak/FPGA dev. board LGSF15-252_v1.0/9.Key_Lcd/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "F:/vinayak/FPGA DVK Board LGSF15-252_V1.1/Keypad+LCD/key_Lcd.xst" -ofn "F:/vinayak/FPGA DVK Board LGSF15-252_V1.1/Keypad+LCD/key_Lcd.syr" 
+xst -intstyle ise -ifn "F:/vinayak/FPGA DVK Board LGSF15-252_V1.1/Keypad+LCD/key_Lcd.xst" -ofn "F:/vinayak/FPGA DVK Board LGSF15-252_V1.1/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc3s500e-pq208-4 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc3s500e-pq208-4 -cm area -ir off -pr off -c 100 -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -t 1 key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-3 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+xst -intstyle ise -ifn "F:/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.xst" -ofn "F:/NEW SPARTANCE-6 VHDL CODE/Keypad+LCD/key_Lcd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Key_LCD.ucf -p xc6slx9-tqg144-2 "key_Lcd.ngc" key_Lcd.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o key_Lcd_map.ncd key_Lcd.ngd key_Lcd.pcf 
+par -w -intstyle ise -ol high -mt off key_Lcd_map.ncd key_Lcd.ncd key_Lcd.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml key_Lcd.twx key_Lcd.ncd -o key_Lcd.twr key_Lcd.pcf -ucf Key_LCD.ucf 
+bitgen -intstyle ise -f key_Lcd.ut key_Lcd.ncd 

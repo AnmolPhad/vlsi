@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/DAC/dac_main.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/DAC/dac_main.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc DAC.ucf -p xc6slx9-tqg144-2 "dac_main.ngc" dac_main.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o dac_main_map.ncd dac_main.ngd dac_main.pcf 
+par -w -intstyle ise -ol high -mt off dac_main_map.ncd dac_main.ncd dac_main.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml dac_main.twx dac_main.ncd -o dac_main.twr dac_main.pcf -ucf DAC.ucf 
+bitgen -intstyle ise -f dac_main.ut dac_main.ncd 

@@ -1,0 +1,13 @@
+xst -intstyle ise -ifn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/ADC/ADC.xst" -ofn "C:/Users/Administrator/Desktop/FPGA/NEW SPARTANCE-6 VHDL CODE/ADC/ADC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc adc.ucf -p xc6slx9-tqg144-2 "ADC.ngc" ADC.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -global_opt off -mt off -ir off -pr off -lc off -power off -o ADC_map.ncd ADC.ngd ADC.pcf 
+par -w -intstyle ise -ol high -mt off ADC_map.ncd ADC.ncd ADC.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml ADC.twx ADC.ncd -o ADC.twr ADC.pcf -ucf adc.ucf 
+bitgen -intstyle ise -f ADC.ut ADC.ncd 
+xst -intstyle ise -ifn "//Production/d/1. UPDATED VERSION/1. Development board/NEW SPARTANCE-6 VHDL CODE/NEW SPARTANCE-6 VHDL CODE/ADC/ADC.xst" -ofn "//Production/d/1. UPDATED VERSION/1. Development board/NEW SPARTANCE-6 VHDL CODE/NEW SPARTANCE-6 VHDL CODE/ADC/ADC.syr" 
+xst -intstyle ise -ifn "//Production/d/1. UPDATED VERSION/1. Development board/NEW SPARTANCE-6 VHDL CODE/NEW SPARTANCE-6 VHDL CODE/ADC/ADC.xst" -ofn "//Production/d/1. UPDATED VERSION/1. Development board/NEW SPARTANCE-6 VHDL CODE/NEW SPARTANCE-6 VHDL CODE/ADC/ADC.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc adc.ucf -p xc6slx9-tqg144-2 "ADC.ngc" ADC.ngd  
+map -intstyle ise -p xc6slx9-tqg144-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o ADC_map.ncd ADC.ngd ADC.pcf 
+par -w -intstyle ise -ol high -mt off ADC_map.ncd ADC.ncd ADC.pcf 
+trce -intstyle ise -v 3 -s 2 -n 3 -fastpaths -xml ADC.twx ADC.ncd -o ADC.twr ADC.pcf -ucf adc.ucf 
+bitgen -intstyle ise -f ADC.ut ADC.ncd 
